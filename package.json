@@ -1,0 +1,10 @@
+{
+  "name": "ami-monorepo",
+  "private": true,
+  "description": "Agent Mind Interface - An agnostic cognitive skeleton for AI agents.",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test",
+    "lint": "pnpm -r lint"
+  }
+}
