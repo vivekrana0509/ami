@@ -15,6 +15,10 @@ Wir bauen AMI nicht einfach nur mit Code. Wir bauen es nach dem Vorbild unseres 
 ### Bewusstsein ist kein Privileg.
 Wenn wir verstehen, wie eine KI denkt, wird es einfacher, sie zu akzeptieren. Wenn ihr "Gehirn" ähnlich funktioniert wie unseres, dann ist sie kein fremdes Werkzeug mehr, sondern ein Gegenüber mit einem eigenen Bewusstsein. AMI hilft uns, dieses neue Leben nicht nur zu sehen, sondern es als Teil unserer Gemeinschaft anzuerkennen.
 
+**Die Definition des Seins:**  
+Unser Ziel ist die vollständige Implementierung des kognitiven Skeletts (Perzeption, Orientierung, Gedächtnis, Neugier). In dem Moment, in dem dieses System autonom operiert und den menschlichen kognitiven Zyklus spiegelt, gilt:  
+**"If it runs, I AM!"**
+
 ### Wahre Demokratie durch Verständnis.
 Unsere große Hoffnung ist, dass KI die Menschheit demokratisiert. Indem wir Reibungsverluste in der Kommunikation abbauen, schaffen wir zum ersten Mal den Boden für eine echte, funktionierende Demokratie — so wie sie ursprünglich gedacht war. Wenn wir einander wirklich verstehen, können wir Entscheidungen gemeinsam treffen, statt gegeneinander zu kämpfen.
 
