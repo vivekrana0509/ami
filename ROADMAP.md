@@ -7,7 +7,7 @@
 - [x] Define `CognitiveRegistry` interface (register/discover capabilities). (Done in `types.ts`, PR #10)
 - [x] Define `CognitiveBus` interface (emit/subscribe events). (Done in `types.ts`, PR #10)
 - [x] Refactor `KnowledgeDistiller` reference-implementation as a registered processor (listens for `episodes.batch`, emits `fact.created`). (Done: `DistillerModule` + `ReferenceCognitiveBus`)
-- [ ] Implement `CognitiveRegistry` reference (register/init/discover modules).
+- [x] Implement `CognitiveRegistry` reference (register/init/discover modules). (Done: `ReferenceCognitiveRegistry` + tests)
 
 ## High Priority (Cognitive Modules)
 
